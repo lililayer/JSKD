@@ -1,0 +1,11 @@
+{
+    "name": "test.c",
+    "run_command": "gcc test.c -o test && ./test",
+    "text": [
+        "#include <stdio.h>",
+        "int main() {",
+        "\tprintf(\"Hello, World!\");",
+        "\treturn 0;",
+        "}"
+    ]
+}
