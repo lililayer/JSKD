@@ -17,7 +17,7 @@ interpreted language example :
 }
 ```
 
-compiled language :
+compiled language example :
 ```json
 {
     "name": "test.c",
